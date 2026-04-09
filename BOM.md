@@ -1,0 +1,7 @@
+Bill of materials
+--------------------------------------------------
+https://www.amazon.com/Breadboard-Jumper-Solderless-Breadboards-Tweezer/dp/B0BMFXPSVG/ref=sr_1_2_sspa?crid=2LUIN8A7UGXJP&dib=eyJ2IjoiMSJ9.AGqrRb490GgIDwzDnYkbxnt20y57RaYl5SLy5976Moj0JUedgKaij5Wxt4xy4E5QufKVEkf7ay6aepbeGy0Piepsibg3yPVZ1Vao-_gSKSUtikX3O9ABFx9FPq2bRrg_F27tzUOGpM0IPzmb3b1gi-M3eeFI2q7VklZw_6wDIDQ1vsOFyjJ0wB0AIuKqFfqPXbGub1JdAlgO-3fomGIw-DlNv2zhCjmY9GHpndJFuwoH_v4A3771nEzTR6PjPIUkY68MvMgRe3vbFAA8TX8NN_EjgwOS3Q20PdjBsmkqPcw.ct5LJW1tgp8cYMXbRPKiiWtOa9lR7gY5Gouu_2xIGbo&dib_tag=se&keywords=breadboard&qid=1768178439&s=electronics&sprefix=breadboard%2Celectronics%2C203&sr=1-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1  |  Wires
+______________________________________________________________________________________________________________________________________________-
+
+
+https://www.amazon.com/ELEGOO-Board-ATmega328P-ATMEGA16U2-Compliant/dp/B01EWOE0UU/ref=sr_1_3?crid=2A0EZ3L7KVV6E&dib=eyJ2IjoiMSJ9.MazmhFfn-DF8W5oyX_S-tKdK1Vw_ErfhallV_3kz1V45xi8sg2TwzIxOd7PE5JdOwteZkr17dFGQjJYOFVTNu0WfGgA71LaqEQVRgwdaIk1kaWFt2o619DWjNSHNlXecKOoWIXkzQYJuhu8001grsrFfvnP-HrAHXpSjSnfvSDOCNuj1CZn2kUccx6R8lT142_l5eArXCYSk-4LWxu8cuZ3Zac-svyRvv8jhcV5C6wkMur7rjWn6171LK6fGjHSsIy5U2YEyoqsLySrisBQKZpYU1kHo5qkKtBrsydapjtQ.dQ8p2zFT4XgCCqSejE1benda8G02D1p6lKa5KGEAr_k&dib_tag=se&keywords=arduino+uno&qid=1768178665&s=electronics&sprefix=arduino+uno%2Celectronics%2C196&sr=1-3  | Arduino Uno R3
