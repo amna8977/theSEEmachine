@@ -15,13 +15,14 @@ This machine is then attached to the glasses, producing the final result shown h
 
 ![IMG_7738](https://github.com/user-attachments/assets/14054570-53a6-4aca-9ed2-679854971a71)
 
-
-
-
-
 ___________________________________________________________________________________________________________________________________________________________________________________
+
 MATERIALS
 Here is a labeled photo with pictures:
 
 <img width="963" height="727" alt="image" src="https://github.com/user-attachments/assets/db7521c6-cd99-4bd7-a65e-593c0f166fab" />
+
+___________________________________________________________________________________________________________________________________________________________________________________
+
+<img width="1128" height="1600" alt="No Vision  NO PROBLEM (1)" src="https://github.com/user-attachments/assets/0f2ef9db-ebac-4f02-bb3a-0c05df3c3807" />
 
