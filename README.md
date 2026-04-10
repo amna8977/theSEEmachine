@@ -24,5 +24,10 @@ Here is a labeled photo with pictures:
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
+Here's the link for the tinkerCAD design:
+  https://www.tinkercad.com/things/hfYkf6cZKz0-arduino-glasses
+
+___________________________________________________________________________________________________________________________________________________________________________________
+
 <img width="1128" height="1600" alt="No Vision  NO PROBLEM (1)" src="https://github.com/user-attachments/assets/0f2ef9db-ebac-4f02-bb3a-0c05df3c3807" />
 
